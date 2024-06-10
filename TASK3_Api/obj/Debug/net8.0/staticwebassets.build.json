@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "H2FxLZmPpVeYaj/WtgYqOKcnYj5lH2xUmISOBQO2ucw=",
+  "Source": "TASK3_Api",
+  "BasePath": "_content/TASK3_Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TASK3_Api\\wwwroot",
+      "Source": "TASK3_Api",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Code Academy\\API\\TASK5\\TASK3_Api\\wwwroot\\",
+      "BasePath": "_content/TASK3_Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
